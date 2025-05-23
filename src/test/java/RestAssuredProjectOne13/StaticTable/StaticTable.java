@@ -39,6 +39,7 @@ public class StaticTable {
 		
 		}
 		System.out.println("-------------------------------------");
+		//System.out.println("new value");
 	}
 	
 	
