@@ -39,7 +39,12 @@ public class StaticTable {
 		
 		}
 		System.out.println("-------------------------------------");
+<<<<<<< HEAD
 		//System.out.println("new value");
+=======
+	System.out.println("-------------------------------------2");
+		
+>>>>>>> ad152f5c597e8c3c1bb53a79fa4ed8319d737a55
 	}
 	
 	
