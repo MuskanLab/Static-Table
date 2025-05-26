@@ -40,9 +40,13 @@ public class StaticTable {
 		}
 		System.out.println("-------------------------------------");
 <<<<<<< HEAD
+<<<<<<< HEAD
 		//System.out.println("new value");
 =======
 	System.out.println("-------------------------------------2");
+=======
+	System.out.println("-------------------------------------3");
+>>>>>>> MuskanDev
 		
 >>>>>>> ad152f5c597e8c3c1bb53a79fa4ed8319d737a55
 	}
